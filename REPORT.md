@@ -1,6 +1,6 @@
 # Assignment 1: Divide and Conquer & Asymptotic Notations
 
-Nursultan Duisenbekuly, group GROUP
+Nursultan Duisenbekuly, group SE-2524s
 
 All numbers below come from `results.csv` (median of 5 runs per case, Java 21, one machine). Comparisons are
 counted once per element visited by a partition or a merge step.
